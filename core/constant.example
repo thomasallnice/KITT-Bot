@@ -1,0 +1,7 @@
+ELEVENLABS_API_KEY = "xxx"
+VOICE_ID           = "xxx"
+CHUNK_SIZE         = 1024
+
+
+PINECONE_API_KEY = 'abc'
+PINECONE_ENV='us-west1-gcp-free'
